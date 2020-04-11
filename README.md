@@ -1,11 +1,6 @@
 ## RGBCreator
 It creates intermediate colors with red, green, blue color combinations.
 
-[![Watch the video](https://github.com/omercankoc/RGBCreator/blob/master/ui.mp4)](https://github.com/omercankoc/RGBCreator/blob/master/ui.mp4)
-
-<iframe src="https://github.com/omercankoc/RGBCreator/blob/master/ui.mp4" frameborder="0" allowfullscreen></iframe>
-
-
 UI Elements:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
